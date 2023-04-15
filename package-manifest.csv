@@ -1,0 +1,631 @@
+package_name,version,summary,license,metadata_source
+Babel,2.7.0,Internationalization utilities,BSD,PyPI
+Baker,1.3,"Easy, powerful access to Python functions from the command line",Apache 2.0,PyPI
+Boruta,0.3,Python Implementation of Boruta Feature Selection,BSD 3 clause,PyPI
+Bottleneck,1.2.1,Fast NumPy array functions written in C,Simplified BSD,PyPI
+CVXcanon,0.1.1,"A low-level library to perform the matrix building step in cvxpy, a convex optimization modeling software.",GPLv3,PyPI
+CairoSVG,2.4.1,A Simple SVG Converter based on Cairo,LGPLv3+,PyPI
+Cartopy,0.17.0,A cartographic python library with Matplotlib support for visualisation,LGPLv3,PyPI
+Click,7.0,Composable command line interface toolkit,BSD,PyPI
+ConfigArgParse,0.14.0,A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables.,MIT,PyPI
+Cython,0.29.13,The Cython compiler for writing C extensions for the Python language.,Apache,PyPI
+Delorean,1.0.0,library for manipulating datetimes with ease and clarity,MIT license,PyPI
+Deprecated,1.2.6,"Python @deprecated decorator to deprecate old python classes, functions or methods.",MIT,PyPI
+Fiona,1.8.6,Fiona reads and writes spatial data files,BSD,PyPI
+Flask,1.1.1,A simple framework for building complex web applications.,BSD-3-Clause,PyPI
+Flask-Cors,3.0.8,A Flask extension adding a decorator for CORS support,MIT,PyPI
+Geohash,1.0,Module to decode/encode Geohashes to/from latitude and longitude.,GNU Affero GPL.,PyPI
+ImageHash,4.0,Image Hashing library,BSD 2-clause (see LICENSE file),PyPI
+Janome,0.3.9,Japanese morphological analysis engine.,AL2,PyPI
+Jinja2,2.10.1,A small but fast and easy to use stand-alone template engine written in pure python.,BSD,PyPI
+Keras,2.2.4,Deep Learning for humans,MIT,PyPI
+Keras-Applications,1.0.8,Reference implementations of popular deep learning models,MIT,PyPI
+Keras-Preprocessing,1.1.0,Easy data preprocessing and data augmentation for deep learning models,MIT,PyPI
+Lasagne,0.2.dev1,A lightweight library to build and train neural networks in Theano,MIT,PyPI
+Mako,1.1.0,A super-fast templating language that borrows the  best ideas from the existing templating languages.,MIT,PyPI
+Markdown,3.1.1,Python implementation of Markdown.,BSD License,PyPI
+MarkupSafe,1.1.1,Safely add untrusted strings to HTML/XML markup.,BSD-3-Clause,PyPI
+PDPbox,0.2.0+13.g73c6966,python partial dependence plot toolbox,MIT,PyPI
+Pillow,5.4.1,Python Imaging Library (Fork),,PyPI
+PyArabic,0.6.5,Arabic text tools for Python,GPL,PyPI
+PyAstronomy,0.13.0,A collection of astronomy related tools for Python.,,PyPI
+PyBrain,0.3.3,PyBrain is the Swiss army knife for neural networking.,BSD,PyPI
+PyOpenGL,3.1.0,Standard OpenGL bindings for Python,BSD,PyPI
+PyPrind,2.11.2,Python Progress Bar and Percent Indicator Utility,BSD 3-Clause,PyPI
+PySocks,1.7.0,A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information.,BSD,PyPI
+PyUpSet,0.1.1.post7,Python implementation of the UpSet visualisation suite by Lex et al.,MIT,PyPI
+PyWavelets,1.0.3,"PyWavelets, wavelet transform module",MIT,PyPI
+PyYAML,5.1.2,YAML parser and emitter for Python,MIT,PyPI
+Pygments,2.4.2,Pygments is a syntax highlighting package written in Python.,BSD License,PyPI
+Pympler,0.7,"A development tool to measure, monitor and analyze the memory behavior of Python objects.","Apache License, Version 2.0",PyPI
+Pyphen,0.9.5,Pure Python module to hyphenate text,,PyPI
+QtAwesome,0.5.7,FontAwesome icons in PyQt and PySide applications,MIT,PyPI
+QtPy,1.9.0,"Provides an abstraction layer on top of the various Qt bindings (PyQt5, PyQt4 and PySide) and additional custom QWidgets.",MIT,PyPI
+Rtree,0.8.3,R-Tree spatial index for Python GIS,LGPL,PyPI
+SQLAlchemy,1.3.7,Database Abstraction Library,MIT,PyPI
+SecretStorage,3.1.1,Python bindings to FreeDesktop.org Secret Service API,BSD 3-Clause License,PyPI
+Send2Trash,1.5.0,"Send file to trash natively under Mac OS X, Windows and Linux.",BSD License,PyPI
+Shapely,1.6.4.post2,"Geometric objects, predicates, and operations",BSD,PyPI
+SimpleITK,1.2.2,SimpleITK is a simplified interface to the Insight Toolkit (ITK) for image registration and segmentation,Apache,PyPI
+SoundFile,0.10.2,"An audio library based on libsndfile, CFFI and NumPy",BSD 3-Clause License,PyPI
+Sphinx,2.1.2,Python documentation generator,BSD,PyPI
+TPOT,0.10.2,Tree-based Pipeline Optimization Tool,GNU/LGPLv3,PyPI
+Theano,1.0.4+12.g93e8180bf,Optimizing compiler for evaluating mathematical expressions on CPUs and GPUs.,BSD,PyPI
+Unidecode,1.1.1,ASCII transliterations of Unicode text,GPL,PyPI
+Wand,0.5.3,Ctypes-based simple MagickWand API binding for Python,MIT License,PyPI
+Werkzeug,0.15.5,The comprehensive WSGI web application library.,BSD-3-Clause,PyPI
+Wordbatch,1.4.0,"Python library for distributed AI processing pipelines, using swappable scheduler backends",GNU GPL 2.0,PyPI
+XlsxWriter,1.1.8,A Python module for creating Excel XLSX files.,BSD,PyPI
+absl-py,0.7.1,"Abseil Python Common Libraries, see https://github.com/abseil/abseil-py.",Apache 2.0,PyPI
+alabaster,0.7.12,"Configurable, Python 2+3 compatible Sphinx theme.",BSD 3-Clause,Anaconda
+albumentations,0.3.1,Fast image augmentation library and easy to use wrapper around other libraries,MIT,PyPI
+alembic,1.0.11,A database migration tool for SQLAlchemy.,MIT,Anaconda
+allennlp,0.8.4,"An open-source NLP research library, built on PyTorch.",Apache,PyPI
+altair,3.2.0,Altair: A declarative statistical visualization library for Python.,BSD 3-clause,PyPI
+anaconda-client,1.7.2,anaconda.org command line client library,BSD 3-clause,Anaconda
+anaconda-navigator,1.9.7,Anaconda Navigator,"proprietary - Continuum Analytics, Inc.",Anaconda
+anaconda-project,0.8.3,"Tool for encapsulating, running, and reproducing data science projects",BSD 3-Clause,Anaconda
+annoy,1.15.2,Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk.,Apache License 2.0,PyPI
+appdirs,1.4.3,A small Python module for determining appropriate platform-specific dirs.,MIT,Anaconda
+arrow,0.14.5,Better dates & times for Python.,Apache-2.0,Anaconda
+asn1crypto,0.24.0,Python ASN.1 library with a focus on performance and a pythonic API,MIT,Anaconda
+astor,0.8.0,Read/rewrite/write Python ASTs,BSD-3-Clause,PyPI
+astroid,2.2.5,A abstract syntax tree for Python with inference support.,LGPL 2.1,Anaconda
+astropy,3.2.1,Community-developed Python Library for Astronomy,BSD,Anaconda
+atomicwrites,1.3.0,Atomic file writes,MIT,Anaconda
+attrs,19.1.0,attrs is the Python package that will bring back the joy of writing classes by relieving you from the drudgery of implementing object protocols (aka dunder methods).,MIT,Anaconda
+audioread,2.1.8,"multi-library, cross-platform audio decoding",MIT,PyPI
+backcall,0.1.0,Specifications for callback functions passed in to an API,BSD-3-Clause,Anaconda
+backports.functools-lru-cache,1.5,backports.functools_lru_cache,,PyPI
+backports.os,0.1.1,Backport of new features in Python's os module,Python Software Foundation,Anaconda
+backports.shutil-get-terminal-size,1.0.0,A backport of the get_terminal_size function from Python 3.3's shutil.,MIT,PyPI
+backports.tempfile,1.0,Backport of new features in Python's tempfile module,Python Software Foundation License,PyPI
+backports.weakref,1.0.post1,Backport of new features in Python's weakref module,Python-2.0,Anaconda
+basemap,1.2.0,Plot on map projections using matplotlib,MIT,Anaconda
+bayesian-optimization,1.0.2,Bayesian Optimization package,,PyPI
+bayespy,0.5.18,Variational Bayesian inference tools for Python,,PyPI
+bcolz,1.2.1,A columnar data container that can be compressed,MIT,Anaconda
+beautifulsoup4,4.8.0,Python library designed for screen-scraping,MIT,Anaconda
+biopython,1.74,Collection of freely available tools for computational molecular biology,Biopython License Agreement,Anaconda
+bitarray,1.0.1,efficient arrays of booleans -- C extension,PSF,Anaconda
+bkcharts,0.2,High level chart types built on top of Bokeh,BSD 3-Clause,Anaconda
+bleach,3.1.0,"Easy, whitelist-based HTML-sanitizing tool",Apache-2.0,Anaconda
+blis,0.2.4,"The Blis BLAS-like linear algebra library, as a self-contained C-extension.",BSD,PyPI
+blist,1.3.6,Replacement for Python lists with better performance,BSD 3-clause,Anaconda
+bokeh,1.3.4,Statistical and novel interactive HTML plots for Python,BSD 3-Clause,Anaconda
+boto,2.49.0,Amazon Web Services Library,MIT,Anaconda
+boto3,1.9.212,Amazon Web Services SDK for Python,Apache 2.0,Anaconda
+botocore,1.12.212,"Low-level, data-driven core of boto 3.",Apache 2.0,Anaconda
+bq-helper,0.4.1,,,
+branca,0.3.1,Generate complex HTML+JS pages with Python,"Copyright (C) 2013, Martin Journois",PyPI
+brewer2mpl,1.4.1,Connect colorbrewer2.org color maps to Python and matplotlib,UNKNOWN,PyPI
+cachetools,3.1.1,Extensible memoizing collections and decorators,MIT,PyPI
+cairocffi,1.0.2,cffi-based cairo bindings for Python,BSD,PyPI
+catboost,0.16.5,Catboost Python Package,"Apache License, Version 2.0",PyPI
+category-encoders,2.0.0,A collection sklearn transformers to encode categorical variables as numeric,BSD,PyPI
+certifi,2019.6.16,Python package for providing Mozilla's CA Bundle.,ISC,Anaconda
+cesium,0.9.9,Machine Learning Time-Series Platform,Modified BSD,PyPI
+cffi,1.12.3,Foreign Function Interface for Python calling C code.,MIT,Anaconda
+chainer,6.2.0,A flexible framework of neural networks,MIT License,Anaconda
+chainercv,0.13.1,,,PyPI
+chardet,3.0.4,Universal character encoding detector,LGPL2,Anaconda
+cleverhans,3.0.1,,MIT,PyPI
+click-plugins,1.1.1,An extension module for click to enable registering CLI commands via setuptools entry-points,BSD-3-Clause,Anaconda
+cliff,2.15.0,Command Line Interface Formulation Framework,,PyPI
+cligj,0.5.0,Click params for commmand line interfaces to GeoJSON.,BSD 3-Clause,Anaconda
+cloudpickle,1.2.1,Extended pickling support for Python objects,BSD 3-Clause,Anaconda
+clyent,1.2.2,Command line client library for windows and posix,BSD 3-Clause,Anaconda
+cmd2,0.9.16,cmd2 - quickly build feature-rich and user-friendly interactive command line applications in Python,MIT,PyPI
+cmudict,0.4.3,A versioned python wrapper package for The CMU Pronouncing Dictionary data files.,GPL-3.0,PyPI
+colorama,0.4.1,Cross-platform colored terminal text,BSD-3-Clause,Anaconda
+colorcet,2.0.1,Collection of perceptually uniform colormaps,CC-BY-4.0,Anaconda
+colorlog,4.0.2,Log formatting with colors!,MIT License,PyPI
+colorlover,0.3.0,Color scales for IPython notebook,,PyPI
+conda,4.7.11,"OS-agnostic, system-level binary package and environment manager.",BSD 3-Clause,Anaconda
+conda-build,3.18.9,tools for building conda packages,BSD 3-Clause,Anaconda
+conda-package-handling,1.3.11,,,
+conda-verify,3.4.2,tool for validating conda recipes and conda packages,BSD 3-Clause,Anaconda
+confuse,1.0.0,painless YAML configuration,MIT,PyPI
+conllu,0.11,CoNLL-U Parser parses a CoNLL-U formatted string into a nested python dictionary,,PyPI
+contextlib2,0.5.5,Backports and enhancements for the contextlib module,PSF,Anaconda
+convertdate,2.1.3,Converts between Gregorian dates and other calendar systems.,MIT,PyPI
+conx,3.7.10,On-Ramp to Deep Learning. Built on Keras,,PyPI
+coverage,4.5.4,Code coverage measurement for Python,Apache 2.0,Anaconda
+cryptography,2.3.1,Provides cryptographic recipes and primitives to Python developers,"Apache 2.0 or BSD 3-Clause, PSF 2",Anaconda
+cssselect2,0.2.1,CSS selectors for Python ElementTree,BSD,PyPI
+cufflinks,0.16,Productivity Tools for Plotly + Pandas,MIT,PyPI
+cvxpy,1.0.24,A domain-specific language for modeling convex optimization problems in Python.,"Apache License, Version 2.0",PyPI
+cycler,0.10.0,Composable style cycles.,BSD 3-Clause,Anaconda
+cymem,2.0.2,Manage calls to calloc/free through Cython,MIT,PyPI
+cysignals,1.10.2,Interrupt and signal handling for Cython,"GNU Lesser General Public License, version 3 or later",PyPI
+cytoolz,0.10.0,Cython implementation of Toolz. High performance functional utilities,BSD-3-Clause,Anaconda
+dask,2.3.0,Parallel PyData with Task Scheduling,BSD 3-Clause,Anaconda
+dask-glm,0.2.0,Generalized Linear Models in Dask,BSD-3-Clause,Anaconda
+dask-ml,1.0.0,Distributed and parallel machine learning using dask.,BSD-3-Clause,Anaconda
+dask-xgboost,0.1.7,Interactions between Dask and XGBoost,BSD,PyPI
+dataclasses,0.6,A backport of the dataclasses module for Python 3.6,Apache,PyPI
+datashader,0.7.0,Data visualization toolchain based on aggregating into a grid,BSD-3-Clause,Anaconda
+datashape,0.5.2,A data description language.,BSD 2-Clause,Anaconda
+deap,1.3.0,Distributed Evolutionary Algorithms in Python,LGPL,PyPI
+decorator,4.4.0,Better living through Python with decorators.,BSD 3-Clause,Anaconda
+deepdish,0.3.6,Deep Learning experiments from University of Chicago.,BSD,PyPI
+defusedxml,0.6.0,XML bomb protection for Python stdlib modules,PSF 2.0,Anaconda
+descartes,1.1.0,Use geometric objects as matplotlib paths and patches,BSD,PyPI
+dill,0.3.0,Serialize all of python (almost),BSD 3-Clause,Anaconda
+dipy,1.0.0,Diffusion MRI utilities in python,BSD license,PyPI
+distributed,2.3.0,Distributed computing with Dask,BSD 3-Clause,Anaconda
+docopt,0.6.2,"Pythonic argument parser, that will make you smile",MIT,Anaconda
+docutils,0.15.2,Docutils -- Python Documentation Utilities,Public Domain Dedictation and BSD 2-Clause and PSF 2.1.1 and GPL 3.0,Anaconda
+dora,0.1,Exploratory data analysis toolkit for Python,MIT,PyPI
+ecos,2.0.7.post1,Embedded Conic Solver (ECOS),GPL3,Anaconda
+editdistance,0.5.3,Fast implementation of the edit distance(Levenshtein distance),,PyPI
+edward,1.3.5,"A library for probabilistic modeling, inference, and criticism",Apache License 2.0,PyPI
+eli5,0.10.0,Debug machine learning classifiers and explain their predictions,MIT license,PyPI
+emoji,0.5.3,Emoji for Python,New BSD,PyPI
+en-core-web-lg,2.1.0,,,
+en-core-web-sm,2.1.0,,,
+entrypoints,0.3,Discover and load entry points from installed packages.,MIT License,Anaconda
+ephem,3.7.7.0,Basic astronomical computations for Python,LGPL,Anaconda
+essentia,2.1b5.dev707,"Library for audio and music analysis, description and synthesis",AGPLv3,PyPI
+et-xmlfile,1.0.1,An implementation of lxml.xmlfile for the standard library,MIT,PyPI
+ethnicolr,0.2.1,Predict Race/Ethnicity Based on Name,MIT,PyPI
+fancyimpute,0.5.3,Matrix completion and feature imputation algorithms,http://www.apache.org/licenses/LICENSE-2.0.html,PyPI
+fastFM,0.2.11,,BSD,PyPI
+fastai,1.0.57,"fastai makes deep learning with PyTorch faster, more accurate, and easier",Apache Software License 2.0,PyPI
+fastcache,1.1.0,C implementation of Python 3 lru_cache,MIT,Anaconda
+fasteners,0.14.1,A python package that provides useful locks.,ASL 2.0,PyPI
+fastprogress,0.1.21,A nested progress with plotting options for fastai,Apache License 2.0,PyPI
+fasttext,0.9.1,fasttext Python bindings,MIT,PyPI
+fbpca,1.0,Fast computations of PCA/SVD/eigendecompositions via randomized methods,BSD License,PyPI
+fbprophet,0.5,Automatic Forecasting Procedure,BSD,PyPI
+feather-format,0.4.0,Simple wrapper library to the Apache Arrow-based Feather File Format,"Apache License, Version 2.0",PyPI
+featuretools,0.10.0,a framework for automated feature engineering,BSD 3-clause,PyPI
+filelock,3.0.12,A platform independent file lock.,Public Domain,Anaconda
+fitter,1.1.11,A tool to fit data to many distributions and best one(s),GPL,PyPI
+flake8,3.6.0,Your Tool For Style Guide Enforcement,MIT,Anaconda
+flashtext,2.7,Extract/Replaces keywords in sentences.,,PyPI
+folium,0.10.0,Make beautiful maps with Leaflet.js & Python,MIT,PyPI
+fsspec,0.4.0,File-system specification,BSD,PyPI
+ftfy,4.4.3,Fixes some problems with Unicode text after the fact,MIT,PyPI
+funcsigs,1.0.2,"Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+",ASL,PyPI
+funcy,1.13,A fancy and practical functional tools,BSD,PyPI
+fury,0.3.0,Free Unified Rendering in Python,BSD (3-clause),PyPI
+future,0.17.1,Clean single-source support for Python 3 and 2,MIT,Anaconda
+fuzzywuzzy,0.17.0,Fuzzy string matching in python,GPL,PyPI
+gast,0.2.2,Python AST that abstracts the underlying Python version,BSD 3-Clause,PyPI
+gatspy,0.3,General tools for Astronomical Time Series in Python,BSD 3-clause,PyPI
+gdbn,0.1,Pre-trained deep neural networks,MIT (see license.txt),PyPI
+gensim,3.8.0,Topic Modelling for Humans,LGPL-3.0,Anaconda
+geographiclib,1.49,The geodesic routines from GeographicLib,MIT,PyPI
+geojson,2.5.0,Python bindings and utilities for GeoJSON,BSD,PyPI
+geopandas,0.5.1,Geographic pandas extensions,BSD,PyPI
+geoplot,0.3.0,High-level geospatial plotting for Python.,,PyPI
+geopy,1.20.0,Python Geocoding Toolbox,MIT,PyPI
+geoviews,1.6.1,GeoViews is a Python library that makes it easy to explore and visualize geographical datasets.,BSD 3-Clause,PyPI
+gevent,1.4.0,Coroutine-based network library,MIT,Anaconda
+ggplot,0.11.5,ggplot for python,BSD,PyPI
+glmnet-py,0.1.0b2,"Python version of glmnet, originally from Stanford University, modified by Han Fang",GPL-2,PyPI
+glob2,0.7,"Version of the glob module that supports recursion via **, and can capture patterns.",BSD-2-Clause,Anaconda
+gluoncv,0.4.0.post0,MXNet Gluon CV Toolkit,Apache-2.0,PyPI
+gluonnlp,0.8.0,MXNet Gluon NLP Toolkit,Apache-2.0,PyPI
+gmpy2,2.0.8,"GMP/MPIR, MPFR, and MPC interface to Python 2.6+ and 3.x",LGPL 3,Anaconda
+gnumpy,0.2,"Almost identical to numpy, but does its computations on your computer's  GPU, using Cudamat.",BSD-derived (see LICENSE.txt),PyPI
+google-api-core,1.14.2,Google API client core library,Apache 2.0,PyPI
+google-api-python-client,1.7.11,Google API Client Library for Python,Apache 2.0,PyPI
+google-auth,1.6.3,Google Authentication Library,Apache 2.0,PyPI
+google-auth-httplib2,0.0.3,Google Authentication Library: httplib2 transport,Apache 2.0,PyPI
+google-cloud-automl,0.4.0,Cloud AutoML API client library,Apache 2.0,PyPI
+google-cloud-bigquery,1.12.1,Google BigQuery API client library,Apache 2.0,PyPI
+google-cloud-core,1.0.3,Google Cloud API client core library,Apache 2.0,PyPI
+google-cloud-storage,1.18.0,Google Cloud Storage API client library,Apache 2.0,PyPI
+google-pasta,0.1.7,pasta is an AST-based Python refactoring library,Apache 2.0,PyPI
+google-resumable-media,0.3.2,Utilities for Google Media Downloads and Resumable Uploads,Apache 2.0,PyPI
+googleapis-common-protos,1.6.0,Common protobufs used in Google APIs,Apache-2.0,PyPI
+gplearn,0.4.1,"Genetic Programming in Python, with a scikit-learn inspired API",new BSD,PyPI
+gpxpy,1.3.5,GPX file parser and GPS track manipulation library,"Apache License, Version 2.0",PyPI
+graphviz,0.8.4,Open Source graph visualization software.,EPL v1.0,Anaconda
+greenlet,0.4.15,Lightweight in-process concurrent programming,MIT,Anaconda
+grpcio,1.23.0,HTTP/2-based RPC framework,Apache License 2.0,PyPI
+gym,0.14.0,The OpenAI Gym: A toolkit for developing and comparing your reinforcement learning agents.,,PyPI
+h2o,3.26.0.2,hadoop-centric machine learning (core java package),None,Anaconda
+h5py,2.9.0,Read and write HDF5 files from Python.,BSD-3-Clause,Anaconda
+hallucinate,0.0.1,,,
+haversine,2.1.2,Calculate the distance between 2 points on Earth.,['MIT'],PyPI
+heamy,0.0.7,A set of useful tools for competitive data science.,MIT,PyPI
+heapdict,1.0.0,A heap with decrease-key and increase-key operations,BSD 3-Clause,Anaconda
+hep-ml,0.6.0,Machine Learning for High Energy Physics,Apache 2.0,PyPI
+hmmlearn,0.2.2,,new BSD,PyPI
+holidays,0.9.11,Generate and work with holidays in Python,MIT,PyPI
+holoviews,1.12.5,Stop plotting your data - annotate your data and let it visualize itself.,BSD 3-Clause,Anaconda
+hpsklearn,0.1.0,Hyperparameter Optimization for sklearn,BSD,PyPI
+html5lib,1.0.1,HTML parser based on the WHATWG HTML specification,MIT,Anaconda
+htmlmin,0.1.12,An HTML Minifier,BSD,PyPI
+httplib2,0.13.1,A comprehensive HTTP client library.,MIT,PyPI
+humanize,0.5.1,Python humanize utilities.,MIT,Anaconda
+hunspell,0.5.5,Module for the Hunspell spellchecker engine,LGPLv3,PyPI
+husl,4.0.3,Human-friendly HSL,MIT,PyPI
+hyperopt,0.1.2,Distributed Asynchronous Hyperparameter Optimization,BSD,PyPI
+hypertools,0.5.1,A python package for visualizing and manipulating high-dimensional data,MIT,PyPI
+hypothesis,4.33.1,A library for property based testing,MPL v2,PyPI
+ibis-framework,1.2.0,Productivity-centric Python Big Data Framework,Apache 2.0,Anaconda
+idna,2.8,Internationalized Domain Names in Applications (IDNA).,BSD Like,Anaconda
+ijson,2.4,Iterative JSON parser with a standard Python iterator interface,BSD,PyPI
+imageio,2.5.0,a Python library for reading and writing image data,BSD 2-Clause,Anaconda
+imagesize,1.1.0,Getting image size from png/jpeg/jpeg2000/gif file,MIT,Anaconda
+imbalanced-learn,0.5.0,Toolbox for imbalanced dataset in machine learning.,MIT,PyPI
+imgaug,0.2.6,Image augmentation library for deep neural networks,MIT,PyPI
+implicit,0.4.0,Collaborative Filtering for Implicit Datasets,MIT,PyPI
+importlib-metadata,0.19,Read metadata from Python packages,Apache Software License,PyPI
+ipykernel,5.1.2,IPython Kernel for Jupyter,BSD-3-Clause,Anaconda
+ipython,7.7.0,IPython: Productive Interactive Computing,BSD-3-Clause,Anaconda
+ipython-genutils,0.2.0,Vestigial utilities from IPython,BSD,PyPI
+ipywidgets,7.5.1,Jupyter Interactive Widgets,BSD 3-clause,Anaconda
+iso3166,1.0,Self-contained ISO 3166-1 country definitions.,MIT,PyPI
+isort,4.3.21,A Python utility,library to sort Python imports.,Anaconda
+isoweek,1.3.3,Objects representing a week,BSD,PyPI
+itsdangerous,1.1.0,Various helpers to pass trusted data to untrusted environments.,BSD 3-Clause,Anaconda
+jdcal,1.4.1,Julian dates from proleptic Gregorian and Julian calendars.,BSD 2-Clause,Anaconda
+jedi,0.15.1,An autocompletion tool for Python that can be used for text editors.,MIT,Anaconda
+jeepney,0.4,Pure Python DBus interface,MIT,Anaconda
+jieba,0.39,Chinese Words Segementation Utilities,MIT,PyPI
+jmespath,0.9.4,JSON Matching Expressions,MIT,PyPI
+joblib,0.13.2,Python function as pipeline jobs.,BSD 3-Clause,Anaconda
+json5,0.8.5,A Python implementation of the JSON5 data format,Apache-2.0,Anaconda
+jsonnet,0.13.0,Python bindings for Jsonnet - The data templating language,,PyPI
+jsonpickle,0.9.6,Python library for serializing any arbitrary object graph into JSON,BSD,PyPI
+jsonschema,3.0.2,An implementation of JSON Schema validation for Python,MIT,Anaconda
+jupyter,1.0.0,Jupyter metapackage. Install all the Jupyter components in one go.,BSD 3-Clause,Anaconda
+jupyter-client,5.3.1,Jupyter protocol implementation and client libraries,BSD,PyPI
+jupyter-console,6.0.0,Jupyter terminal console,BSD,PyPI
+jupyter-core,4.5.0,Jupyter core package. A base package on which Jupyter projects rely.,BSD,PyPI
+jupyter-tensorboard,0.1.10,Start tensorboard in Jupyter! Jupyter notebook integration for tensorboard.,MIT License,PyPI
+jupyterlab,1.0.2,JupyterLab,BSD-3-Clause,Anaconda
+jupyterlab-server,1.0.0,JupyterLab Server,BSD,PyPI
+keras-rcnn,0.0.2,,MIT,PyPI
+keras-resnet,0.2.0,,MIT,PyPI
+keras-rl,0.4.2,Deep Reinforcement Learning for Keras,MIT,PyPI
+keras-tqdm,2.0.1,Keras models with TQDM progress bars in Jupyter notebooks,MIT,PyPI
+keyring,18.0.0,Store and access your passwords safely,Python Software Foundation or MIT,Anaconda
+kiwisolver,1.1.0,A fast implementation of the Cassowary constraint solver,BSD 3-Clause,Anaconda
+kmapper,1.2.0,Python implementation of Mapper algorithm for Topological Data Analysis.,MIT,PyPI
+kmeans-smote,0.1.2,Oversampling for imbalanced learning based on k-means and SMOTE,MIT,PyPI
+kmodes,0.10.1,Python implementations of the k-modes and k-prototypes clustering algorithms for clustering categorical data.,MIT,PyPI
+knnimpute,0.1.0,k-Nearest Neighbor imputation,http://www.apache.org/licenses/LICENSE-2.0.html,PyPI
+ktext,0.40,Pre-processing text in parallel for Keras in python.,MIT,PyPI
+langdetect,1.0.7,Language detection library ported from Google's language-detection.,"Copyright 2014-2015 Michal ""Mimino"" Danilak, Apache License, Version 2.0",PyPI
+langid,1.1.6,langid.py is a standalone Language Identification (LangID) tool.,BSD,PyPI
+lazy-object-proxy,1.4.1,A fast and thorough lazy object proxy,BSD-2-Clause,Anaconda
+learntools,0.3.1,,,
+leven,1.0.4,Levenshtein edit distance library,UNKNOWN,PyPI
+libarchive-c,2.8,Python interface to libarchive,CC0,PyPI
+librosa,0.7.0,Python module for audio and music processing,ISC,PyPI
+lief,0.9.0,LIEF is a library to instrument executable formats,Apache 2.0,PyPI
+lightfm,1.15,LightFM recommendation model,MIT,PyPI
+lightgbm,2.2.3,LightGBM Python Package,The MIT License (Microsoft),PyPI
+lime,0.1.1.36,Local Interpretable Model-Agnostic Explanations for machine learning classifiers,BSD,PyPI
+line-profiler,2.1.2,Line-by-line profiler.,BSD,PyPI
+llvmlite,0.29.0,A lightweight LLVM python binding for writing JIT compilers,New BSD License,Anaconda
+lml,0.0.9,Load me later. A lazy plugin management system.,New BSD,PyPI
+locket,0.2.0,File-based locks for Python for Linux and Windows,BSD 2-Clause,Anaconda
+lunardate,0.2.0,A Chinese Calendar Library in Pure Python,GPLv3,PyPI
+lxml,4.4.1,Pythonic binding for the C libraries libxml2 and libxslt.,"BSD 3-Clause, GPL-2.0, ZPL-2.0, and ElementTree",Anaconda
+lz4,2.1.2,LZ4 Bindings for Python,BSD 3-Clause,Anaconda
+marisa-trie,0.7.5,Static memory-efficient and fast Trie-like structures for Python.,MIT,PyPI
+markovify,0.7.2,"A simple, extensible Markov chain generator. Uses include generating random semi-plausible sentences based on an existing text.",MIT,PyPI
+matplotlib,3.0.3,Publication quality figures in Python,PSF-based,Anaconda
+matplotlib-venn,0.11.5,Functions for plotting area-proportional two- and three-way Venn diagrams in matplotlib.,MIT,PyPI
+mccabe,0.6.1,McCabe complexity checker for Python,MIT,Anaconda
+memory-profiler,0.55.0,A module for monitoring memory usage of a python program,BSD,PyPI
+missingno,0.4.2,Missing data visualization module for Python.,,PyPI
+mistune,0.8.4,The fastest markdown parser in pure Python.,BSD 3-Clause,Anaconda
+mizani,0.6.0,Scales for Python,BSD (3-clause),PyPI
+mkl-fft,1.0.12,MKL-based FFT transforms for NumPy arrays,Proprietary - Intel,PyPI
+mkl-random,1.0.2,NumPy-based implementation of random number generation sampling using Intel (R) Math Kernel Library.,Proprietary - Intel,PyPI
+mkl-service,2.0.2,Python hooks for Intel(R) Math Kernel Library runtime control settings.,BSD-3-Clause,Anaconda
+ml-metrics,0.1.4,Machine Learning Evaluation Metrics,,PyPI
+mlcrate,0.2.0,"A collection of handy python tools and functions, mainly for ML and Kaggle.",MIT,PyPI
+mlens,0.2.3,Machine Learning Ensemble Library,MIT,PyPI
+mlxtend,0.17.0,Machine Learning Library Extensions,BSD 3-Clause,PyPI
+mmh3,2.5.1,"Python wrapper for MurmurHash (MurmurHash3), a set of fast and robust hash functions.",License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication,PyPI
+mne,0.18.2,MNE python project for MEG and EEG data analysis.,BSD (3-clause),PyPI
+mnist,0.2.2,Python utilities to download and parse the MNIST dataset,BSD,PyPI
+mock,3.0.5,A library for testing in Python,BSD-2-Clause,Anaconda
+monotonic,1.5,An implementation of time.monotonic() for Python 2 & < 3.3,Apache,PyPI
+more-itertools,7.2.0,"More routines for operating on iterables, beyond itertools",MIT,Anaconda
+mpld3,0.3,D3 Viewer for Matplotlib.,BSD 3-Clause,Anaconda
+mplleaflet,0.0.5,Convert Matplotlib plots into Leaflet web maps,BSD 3-clause,PyPI
+mpmath,1.1.0,Python library for arbitrary-precision floating-point arithmetic,BSD 3-Clause,Anaconda
+msgpack,0.6.1,MessagePack (de)serializer.,Apache 2.0,PyPI
+msgpack-numpy,0.4.4.3,Numpy data serialization using msgpack,BSD,PyPI
+multipledispatch,0.6.0,Multiple dispatch in Python,BSD 3-Clause,Anaconda
+multiprocess,0.70.8,better multiprocessing and multithreading in python,BSD,PyPI
+munch,2.3.2,A dot-accessible dictionary (a la JavaScript objects).,MIT,Anaconda
+murmurhash,1.0.2,Cython bindings for MurmurHash,MIT,PyPI
+mxnet,1.5.0,MXNet is an ultra-scalable deep learning framework. This version uses openblas.,Apache 2.0,PyPI
+navigator-updater,0.2.1,Anaconda Navigator Updater,"proprietary - Continuum Analytics, Inc.",Anaconda
+nbconvert,5.5.0,Converting Jupyter Notebooks,BSD-3-Clause,Anaconda
+nbformat,4.4.0,The reference implementation of the Jupyter Notebook format,BSD 3-clause,Anaconda
+nervananeon,2.6.0,Intel's deep learning framework,License :: OSI Approved :: Apache Software License,PyPI
+networkx,2.3,Python package for creating and manipulating complex networks,BSD-3-Clause,Anaconda
+nibabel,2.5.0,Access a multitude of neuroimaging data formats,MIT License,PyPI
+nilearn,0.5.2,Statistical learning for neuroimaging in Python,new BSD,PyPI
+nltk,3.2.4,Build Python programs to work with human language data,Apache 2.0,Anaconda
+nolearn,0.6.1.dev0,scikit-learn compatible neural network library,MIT,PyPI
+nose,1.3.7,Nose extends unittest to make testing easier,LGPL-2.1,Anaconda
+notebook,5.5.0,Jupyter Notebook,BSD 3-clause,Anaconda
+numba,0.45.1,NumPy aware dynamic Python compiler using LLVM,BSD 2-clause,Anaconda
+numdifftools,0.9.39,Solves automatic numerical differentiation problems in one or more variables.,new BSD,PyPI
+numexpr,2.6.9,Fast numerical expression evaluator for NumPy.,MIT,Anaconda
+numpy,1.17.0,"Array processing for numbers, strings, records, and objects.",BSD 3-Clause,Anaconda
+numpydoc,0.9.1,Numpy's Sphinx extensions,BSD 3-Clause,Anaconda
+nvidia-ml-py3,7.352.0,Python Bindings for the NVIDIA Management Library,BSD,PyPI
+odfpy,1.4.0,Python API and tools to manipulate OpenDocument files,,PyPI
+olefile,0.46,"parse, read and write Microsoft OLE2 files",BSD 2-Clause,Anaconda
+onnx,1.5.0,Open Neural Network Exchange,,PyPI
+opencv-python,4.1.0.25,Wrapper package for OpenCV python bindings.,MIT,PyPI
+opencv-python-headless,4.1.0.25,Wrapper package for OpenCV python bindings.,MIT,PyPI
+openpyxl,2.6.2,A Python library to read/write Excel 2010 xlsx/xlsm files,MIT,Anaconda
+optuna,0.14.0,A hyperparameter optimization framework,,PyPI
+orderedmultidict,1.0.1,Ordered Multivalue Dictionary,Unlicense,PyPI
+ortools,7.3.7083,Google OR-Tools python libraries and modules,Apache 2.0,PyPI
+osmnx,0.10,"Retrieve, model, analyze, and visualize OpenStreetMap street networks and other spatial data",MIT,PyPI
+osqp,0.5.0,OSQP: The Operator Splitting QP Solver,Apache 2.0,PyPI
+overrides,1.9,A decorator to automatically detect mismatch when overriding a method.,"Apache License, Version 2.0",PyPI
+packaging,19.1,Core utilities for Python packages,Apache 2.0 or BSD 2-Clause,Anaconda
+palettable,3.2.0,Color palettes for Python,,PyPI
+pandas,0.25.0,"High-performance, easy-to-use data structures and data analysis tools.",BSD 3-clause,Anaconda
+pandas-datareader,0.7.4,"Up to date remote data access for pandas, works for multiple versions of pandas",BSD-3,Anaconda
+pandas-profiling,2.3.0,Generate profile report for pandas DataFrame,MIT,Anaconda
+pandas-summary,0.0.7,An extension to pandas describe function.,MIT,PyPI
+pandasql,0.7.3,Sqldf for pandas,BSD,Anaconda
+pandoc,1.0.2,Universal markup converter (repackaged binaries).,GPL-2.0,Anaconda
+pandocfilters,1.4.2,A python module for writing pandoc filters,BSD-3-Clause,Anaconda
+param,1.9.1,Param: Make your Python code clearer and more reliable by declaring Parameters,BSD-3-Clause,Anaconda
+paramnb,2.0.4,Generate ipywidgets from Parameterized objects in the notebook,BSD 3-Clause License,PyPI
+parsimonious,0.8.1,(Soon to be) the fastest pure-Python PEG parser I could muster,MIT,PyPI
+parso,0.5.1,A Python Parser,MIT,Anaconda
+partd,1.0.0,Data structure for on-disk shuffle operations,BSD 3-Clause,Anaconda
+path.py,12.0.1,A module wrapper for os.path,MIT,Anaconda
+pathlib2,2.3.4,Fork of pathlib aiming to support the full stdlib Python API,MIT,Anaconda
+pathos,0.2.4,parallel graph management and execution in heterogeneous computing,3-clause BSD,PyPI
+patsy,0.5.1,Describing statistical models in Python using symbolic formulas,"BSD-2-Clause, PSF2",Anaconda
+pbr,5.4.2,Python Build Reasonableness,,PyPI
+pdf2image,1.6.0,A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.,MIT,PyPI
+pep8,1.7.1,Python style guide checker,MIT,Anaconda
+pexpect,4.7.0,Pexpect makes Python a better tool for controlling other applications.,ISC,Anaconda
+phik,0.9.8,Phi_K correlation analyzer library,,PyPI
+pickleshare,0.7.5,Tiny 'shelve'-like database with concurrency support,MIT,Anaconda
+pip,19.2.2,PyPA recommended tool for installing Python packages,MIT,Anaconda
+pkginfo,1.5.0.1,Query metadatdata from sdists,bdists,Anaconda
+plac,0.9.6,The smartest command line arguments parser in the world,BSD 2-Clause,Anaconda
+plotly,4.1.0,"An interactive, browser-based graphing library for Python",MIT,Anaconda
+plotly-express,0.4.1,Plotly Express - a high level wrapper for Plotly.py,MIT,PyPI
+plotnine,0.4.0,A grammar of graphics for python,GPL-2,PyPI
+pluggy,0.12.0,Plugin registration and hook calling for Python,MIT,Anaconda
+ply,3.11,Python Lex-Yacc,BSD 3-clause,Anaconda
+polyglot,16.7.4,Polyglot is a natural language pipeline that supports massive multilingual applications.,GPLv3,PyPI
+posix-ipc,1.0.4,"POSIX IPC primitives (semaphores, shared memory and message queues) for Python",http://creativecommons.org/licenses/BSD/,PyPI
+pox,0.2.6,utilities for filesystem exploration and automated builds,3-clause BSD,PyPI
+ppca,0.0.4,Probabilistic PCA,,PyPI
+ppft,1.6.6.1,distributed and parallel python,BSD-like,PyPI
+preprocessing,0.1.13,pre-processing package for text strings,MIT,PyPI
+preshed,2.0.1,Cython hash table that trusts the keys are pre-hashed,MIT,PyPI
+prettytable,0.7.2,A simple Python library for easily displaying tabular data in a visually appealing ASCII table format.,BSD,PyPI
+progressbar2,3.42.0,A Python Progressbar library to provide visual (yet text based) progress to long running operations.,BSD,PyPI
+prometheus-client,0.7.1,Python client for the Prometheus monitoring system.,Apache Software License 2.0,PyPI
+prompt-toolkit,2.0.9,Library for building powerful interactive command lines in Python,BSD-3-Clause,PyPI
+pronouncing,0.2.0,A simple interface for the CMU pronouncing dictionary,BSD,PyPI
+protobuf,3.7.1,Protocol Buffers - Google's data interchange format.,BSD 3-Clause,Anaconda
+psutil,5.6.3,A cross-platform process and system utilities module for Python,BSD 3-Clause,Anaconda
+ptyprocess,0.6.0,Run a subprocess in a pseudo terminal,ISC,Anaconda
+pudb,2019.1,"A full-screen, console-based Python debugger",,PyPI
+py,1.8.0,"library with cross-python path, ini-parsing, io, code, log facilities",MIT,Anaconda
+py-cpuinfo,5.0.0,Get CPU info with pure Python 2 & 3,MIT,PyPI
+py-lz4framed,0.13.0,LZ4Frame library for Python (via C bindings),Apache License 2.0,PyPI
+py-stringmatching,0.4.1,Python library for string matching.,BSD,PyPI
+py-stringsimjoin,0.3.1,Python library for performing string similarity joins.,BSD,PyPI
+pyLDAvis,2.1.2,Interactive topic model visualization. Port of the R package.,MIT,PyPI
+pyOpenSSL,19.0.0,Python wrapper module around the OpenSSL library,"Apache License, Version 2.0",PyPI
+pyPdf,1.13,PDF toolkit,UNKNOWN,PyPI
+pyahocorasick,1.4.0,pyahocorasick is a fast and memory efficient library for exact or approximate multi-pattern string search., BSD-3-Clause and Public-Domain,PyPI
+pyarrow,0.10.0,Python library for Apache Arrow,"Apache License, Version 2.0",PyPI
+pyasn1,0.4.6,ASN.1 types and codecs,BSD 2-Clause,Anaconda
+pyasn1-modules,0.2.6,A collection of ASN.1-based protocols modules.,BSD 2-Clause,Anaconda
+pybind11,2.3.0,Seamless operability between C++11 and Python,BSD,PyPI
+pycairo,1.18.1,Python interface for cairo,,PyPI
+pycodestyle,2.4.0,Python style guide checker,MIT,Anaconda
+pycosat,0.6.3,Bindings to picosat (a SAT solver),MIT,Anaconda
+pycountry,19.8.18,"ISO country, subdivision, language, currency and script definitions and their translations",LGPL 2.1,PyPI
+pycparser,2.19,Complete C99 parser in pure Python,BSD 3-clause,Anaconda
+pycrypto,2.6.1,Cryptographic modules for Python.,Public Domain,Anaconda
+pyct,0.4.6,"python package common tasks for users (e.g. copy examples, fetch data, ...)",BSD 3-Clause License,PyPI
+pycurl,7.43.0.2,A Python Interface To The cURL library,"LGPL, MIT",Anaconda
+pydash,4.7.5,"The kitchen sink of Python utility libraries for doing ""stuff"" in a functional way. Based on the Lo-Dash Javascript library.",MIT License,PyPI
+pydicom,1.3.0,Pure python package for DICOM medical file reading and writing,MIT,PyPI
+pydot,1.4.1,Python interface to Graphviz's Dot,MIT,Anaconda
+pyeconometrics,1.0.2,,,
+pyemd,0.5.1,A Python wrapper for the Earth Mover's Distance.,MIT,Anaconda
+pyexcel-io,0.5.20,"A python library to read and write structured data in csv, zipped csvformat and to/from databases",New BSD,PyPI
+pyexcel-ods,0.5.6,"A wrapper library to read, manipulate and write data in ods format",New BSD,PyPI
+pyfasttext,0.4.6,Yet another Python binding for fastText,GPLv3,PyPI
+pyflakes,2.0.0,Pyflakes analyzes programs and detects various errors.,MIT,Anaconda
+pyflux,0.4.15,PyFlux: A time-series analysis library for Python,BSD,PyPI
+pyglet,1.3.2,Cross-platform windowing and multimedia library,BSD,PyPI
+pykalman,0.9.5,"An implementation of the Kalman Filter, Kalman Smoother, and EM algorithm in Python",BSD,PyPI
+pykoko,0.1.8,KOKO is an easy-to-use entity extraction tool,Apache Software License 2.0,PyPI
+pylint,2.3.1,python code static checker,GPL,Anaconda
+pymagnitude,0.1.120,"A fast, efficient universal vector embedding utility package.",MIT,PyPI
+pymc3,3.7,Probabilistic Programming in Python.,Apache-2.0,Anaconda
+pymongo,3.9.0,Python driver for MongoDB http://www.mongodb.org,Apache 2.0,Anaconda
+pyocr,0.7.2,"A Python wrapper for OCR engines (Tesseract, Cuneiform, etc)",GPLv3+,PyPI
+pyodbc,4.0.27,DB API Module for ODBC,MIT,Anaconda
+pypandoc,1.4,Thin wrapper for pandoc.,MIT,PyPI
+pyparsing,2.4.2,Create and execute simple grammars,MIT,Anaconda
+pyperclip,1.7.0,A cross-platform clipboard module for Python. (Only handles plain text for now.),BSD,PyPI
+pyproj,2.3.0,Python interface to PROJ.4 library,OSI,Anaconda
+pyrsistent,0.14.11,Persistent/Functional/Immutable data structures,MIT,Anaconda
+pysal,2.1.0,Library of spatial analysis functions,BSD-3-Clause,Anaconda
+pyshp,2.1.0,Pure Python read/write support for ESRI Shapefile format,MIT,Anaconda
+pystan,2.19.0.0,"Python interface to Stan, a package for Bayesian inference",GPLv3,Anaconda
+pytagcloud,0.3.5,Create beautiful tag clouds as images or HTML,BSD,PyPI
+pytesseract,0.2.9,Python-tesseract is a python wrapper for Google's Tesseract-OCR,GPLv3,PyPI
+pytest,5.0.1,Simple and powerful testing with Python.,MIT,Anaconda
+pytest-arraydiff,0.3,pytest plugin to help with comparing array output from tests,BSD,Anaconda
+pytest-astropy,0.5.0,Meta-package containing dependencies for testing Astropy,BSD,Anaconda
+pytest-cov,2.7.1,Pytest plugin for measuring coverage,MIT,Anaconda
+pytest-doctestplus,0.3.0,Pytest plugin with advanced doctest features,BSD,Anaconda
+pytest-mock,1.10.4,Thin-wrapper around the mock package for easier use with py.test,MIT,Anaconda
+pytest-openfiles,0.3.2,Pytest plugin for detecting inadvertent open file handles,BSD,Anaconda
+pytest-pylint,0.14.1,pytest plugin to check source code with pylint,MIT,PyPI
+pytest-remotedata,0.3.2,Pytest plugin for controlling remote data access,BSD,Anaconda
+pytext-nlp,0.1.2,pytorch modeling framework and model zoo for text models,BSD,PyPI
+python-Levenshtein,0.12.0,Python extension for computing string edit distances and similarities.,GPL,PyPI
+python-dateutil,2.8.0,Extensions to the standard Python datetime module.,BSD 3 Clause,Anaconda
+python-editor,1.0.4,"Programmatically open an editor, capture the result.",Apache 2.0,Anaconda
+python-igraph,0.7.1.post7,High performance graph data structures and algorithms,GNU General Public License (GPL),PyPI
+python-louvain,0.13,Louvain algorithm for community detection,BSD,PyPI
+python-utils,2.3.0,Python Utils is a collection of small Python functions and classes which make common patterns shorter and easier.,BSD-3-Clause,Anaconda
+pytorch-ignite,0.2.0,A lightweight library to help with training neural networks in PyTorch.,BSD,PyPI
+pytorch-pretrained-bert,0.6.2,PyTorch version of Google AI BERT model with script to load Google pre-trained models,Apache,PyPI
+pytz,2019.2,"World timezone definitions, modern and historical.",MIT,Anaconda
+pyviz-comms,0.7.2,Bidirectional communication for the PyViz ecosystem.,BSD,PyPI
+pyzmq,18.1.0,Python bindings for zeromq,BSD 3-clause,Anaconda
+qtconsole,4.5.3,Jupyter Qt console,BSD 3-Clause,Anaconda
+raccoon,2.1.5,Python DataFrame with fast insert and appends,MIT,PyPI
+randomgen,1.16.6,Random generator supporting multiple PRNGs,NCSA,PyPI
+ray,0.7.3,A system for parallel and distributed Python that unifies the ML ecosystem.,Apache 2.0,PyPI
+redis,3.3.8,Advanced key-value cache and store,3-clause BSD,Anaconda
+regex,2019.8.19,"Alternative regular expression module, to replace re.",Python-2.0,Anaconda
+requests,2.22.0,Python HTTP for Humans,Apache 2.0,Anaconda
+resampy,0.2.2,Efficient signal resampling,ISC,PyPI
+retrying,1.3.3,Retrying,Apache 2.0,PyPI
+revrand,0.6.5,A library of scalable Bayesian generalized linear models with fancy features,Apache Software License 2.0,PyPI
+rf-perm-feat-import,0.1,Random Forest Permutate Feature Importance,MIT,PyPI
+rgf-python,3.6.0,Scikit-learn Wrapper for Regularized Greedy Forest,MIT License,PyPI
+rope,0.14.0,A python refactoring library,GPL 2.0,Anaconda
+rsa,4.0,Pure-Python RSA implementation,ASL 2,PyPI
+ruamel-yaml,0.15.46,"ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",MIT license,PyPI
+s2sphere,0.2.5,Python implementation of the S2 Geometry Library,MIT,PyPI
+s3fs,0.3.3,Convenient Filesystem interface over S3,BSD 3-Clause,Anaconda
+s3transfer,0.2.1,An Amazon S3 Transfer Manager,Apache License 2.0,PyPI
+sacred,0.7.5,Facilitates automated and reproducible experimental research,,PyPI
+scattertext,0.0.2.52,An NLP package to visualize interesting terms in text.,Apache 2.0,PyPI
+scikit-image,0.15.0,Image processing routines for SciPy.,BSD 3-Clause,Anaconda
+scikit-learn,0.21.3,A set of python modules for machine learning and data mining,BSD 3-Clause,Anaconda
+scikit-multilearn,0.2.0,Scikit-multilearn is a BSD-licensed library for multi-label classification that is built on top of the well-known scikit-learn ecosystem.,BSD,PyPI
+scikit-optimize,0.5.2,Sequential model-based optimization toolbox.,BSD,PyPI
+scikit-plot,0.3.7,An intuitive library to add plotting functionality to scikit-learn objects.,MIT License,PyPI
+scikit-surprise,1.0.6,An easy-to-use library for recommender systems.,GPLv3+,PyPI
+scipy,1.2.1,Scientific Library for Python,BSD 3-Clause,Anaconda
+scs,2.1.1.post2,scs: splitting conic solver,MIT,PyPI
+seaborn,0.9.0,Statistical data visualization,BSD 3-Clause,Anaconda
+sentencepiece,0.1.83,SentencePiece python wrapper,Apache,PyPI
+setuptools,41.0.1,"Download, build, install, upgrade, and uninstall Python packages",MIT,Anaconda
+setuptools-git,1.2,Setuptools revision control system plugin for Git,BSD,PyPI
+shap,0.29.3,A unified approach to explain the output of any machine learning model.,MIT,PyPI
+simplegeneric,0.8.1,"Simple generic functions (similar to Python's own len(), pickle.dump(), etc.)",Zope Public,Anaconda
+singledispatch,3.4.0.3,Transforms a function into a single-dispatch generic function,MIT,Anaconda
+six,1.12.0,Python 2 and 3 compatibility utilities,MIT,Anaconda
+sklearn,0.0,A set of python modules for machine learning and data mining,UNKNOWN,PyPI
+sklearn-contrib-lightning,0.5.0,"Large-scale sparse linear classification, regression and ranking in Python",new BSD,PyPI
+sklearn-contrib-py-earth,0.1.0+1.gdde5f89,A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Splines.,LICENSE.txt,PyPI
+sklearn-pandas,1.8.0,Pandas integration with sklearn,,PyPI
+smart-open,1.8.4,"Utils for streaming large files (S3, HDFS, gzip, bz2...)",MIT,PyPI
+smhasher,0.150.1,Python extension for smhasher hash functions,UNKNOWN,PyPI
+snowballstemmer,1.9.0,Snowball stemming library collection for Python,BSD-2-Clause,Anaconda
+sortedcollections,1.1.2,Python Sorted Collections,Apache-2.0,Anaconda
+sortedcontainers,2.1.0,"Python Sorted Container Types: SortedList, SortedDict, and SortedSet",Apache 2.0,Anaconda
+soupsieve,1.9.2,A modern CSS selector implementation for BeautifulSoup,MIT,Anaconda
+spacy,2.1.8,Industrial-strength Natural Language Processing,MIT,Anaconda
+spectral,0.19,Spectral Python (SPy) is a Python module for hyperspectral image processing.,GPL,PyPI
+speedml,0.9.3,Speedml Machine Learning Speed Start,MIT,PyPI
+sphinx-rtd-theme,0.2.4,Read the Docs theme for Sphinx,MIT,PyPI
+sphinxcontrib-applehelp,1.0.1,sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books,BSD-2-Clause,Anaconda
+sphinxcontrib-devhelp,1.0.1,sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document,BSD-2-Clause,Anaconda
+sphinxcontrib-htmlhelp,1.0.2,sphinxcontrib-htmlhelp is a sphinx extension which ...,BSD-2-Clause,Anaconda
+sphinxcontrib-jsmath,1.0.1,A sphinx extension which renders display math in HTML via JavaScript,BSD-2-Clause,Anaconda
+sphinxcontrib-qthelp,1.0.2,sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document,BSD-2-Clause,Anaconda
+sphinxcontrib-serializinghtml,1.1.3,"sphinxcontrib-serializinghtml is a sphinx extension which outputs ""serialized"" HTML files (json and pickle).",BSD-2-Clause,Anaconda
+sphinxcontrib-websupport,1.1.2,Sphinx API for Web Apps,BSD-2-Clause,Anaconda
+spyder,3.3.6,The Scientific Python Development Environment,MIT,Anaconda
+spyder-kernels,0.5.1,Jupyter kernels for the Spyder console,MIT,Anaconda
+sqlparse,0.3.0,A non-validating SQL parser module for Python.,BSD 3-Clause,Anaconda
+squarify,0.4.3,Pure Python implementation of the squarify treemap layout algorithm,Apache v2,PyPI
+srsly,0.1.0,Modern high-performance serialization utilities for Python,MIT,PyPI
+statsmodels,0.10.1,Statistical computations and models for use with SciPy,BSD 3-Clause,Anaconda
+stemming,1.0.1,,,PyPI
+stevedore,1.30.1,Manage dynamic plugins for Python applications,,PyPI
+stop-words,2018.7.23,Get list of common stop words in various languages in Python,"Copyright (c) 2014, Alireza Savand, Contributors",PyPI
+stopit,1.1.2,"Timeout control decorator and context managers, raise any exception in another thread",GPLv3,PyPI
+svgwrite,1.3.1,A Python library to create SVG drawings.,MIT License,PyPI
+sympy,1.4,Python library for symbolic mathematics,BSD-3-Clause,Anaconda
+tables,3.5.1,Hierarchical datasets for Python,BSD 2-Clause,PyPI
+tabulate,0.8.3,Pretty-print tabular data,MIT,PyPI
+tblib,1.4.0,Traceback serialization library.,BSD 2-Clause,Anaconda
+tensorboard,1.14.0,TensorBoard lets you watch Tensors Flow,Apache 2.0,PyPI
+tensorboardX,1.8,TensorBoardX lets you watch Tensors Flow without Tensorflow,MIT license,PyPI
+tensorflow,1.14.0,TensorFlow is a machine learning library.,Apache 2.0,Anaconda
+tensorflow-estimator,1.14.0,TensorFlow Estimator.,Apache 2.0,PyPI
+tensorflow-hub,0.5.0,"TensorFlow Hub is a library to foster the publication, discovery, and consumption of reusable parts of machine learning models.",Apache 2.0,PyPI
+tensorflow-probability,0.7.0,Probabilistic modeling and statistical inference in TensorFlow,Apache 2.0,PyPI
+tensorforce,0.4.3,Reinforcement learning for TensorFlow,Apache 2.0,PyPI
+tensorpack,0.9.7.1,A Neural Network Training Interface on TensorFlow,Apache,PyPI
+termcolor,1.1.0,ANSII Color formatting for output in terminal.,MIT,Anaconda
+terminado,0.8.2,Terminals served by tornado websockets,BSD 2-Clause,Anaconda
+terminalplot,0.2.6,Plot points in terminal,GPL,PyPI
+testpath,0.3.1,Testpath is a collection of utilities for Python code working with files and commands.,BSD-3-Clause,Anaconda
+textacy,0.6.2,"NLP, before and after spaCy",Apache,PyPI
+textblob,0.15.3,"Simple, Pythonic text processing. Sentiment analysis, part-of-speech tagging, noun phrase parsing, and more.",MIT,PyPI
+tflearn,0.3.2,Deep Learning Library featuring a higher-level API for TensorFlow,MIT,PyPI
+thinc,7.0.8,Practical Machine Learning for NLP,MIT,PyPI
+tifffile,2019.7.26,Read and write TIFF(r) files,BSD,PyPI
+tinycss2,1.0.2,Low-level CSS parser for Python,BSD,PyPI
+toolz,0.10.0,A functional standard library for Python,BSD 3-Clause,Anaconda
+torch,1.1.0,Tensors and Dynamic neural networks in Python with strong GPU acceleration,BSD-3,PyPI
+torchaudio,0.4.0a0+42a705d,An audio package for PyTorch,,PyPI
+torchtext,0.4.0,Text utilities and datasets for PyTorch,BSD,PyPI
+torchvision,0.3.0,Image and video datasets and models for torch deep learning,BSD 3-Clause,Anaconda
+tornado,5.0.2,"A Python web framework and asynchronous networking library, originally developed at FriendFeed.",Apache 2.0,Anaconda
+tqdm,4.32.1,"A Fast, Extensible Progress Meter","MPLv2.0, MIT",Anaconda
+trackml,0.1.12,"An opinionated, minimal cookiecutter template for Python packages",,PyPI
+traitlets,4.3.2,Configuration system for Python applications,BSD 3-clause,Anaconda
+trueskill,0.4.5,The video game rating system,BSD,PyPI
+tsfresh,0.12.0,tsfresh extracts relevant characteristics from time series,MIT,PyPI
+typed-ast,1.3.4,a fork of Python 2 and 3 ast modules with type comment support,Apache 2.0,Anaconda
+typing,3.6.6,Type Hints for Python - backport for Python<3.5,PSF,Anaconda
+typing-extensions,3.6.6,Backported and Experimental Type Hints for Python 3.5+,PSF,PyPI
+tzlocal,2.0.0,tzinfo object for the local timezone,MIT,PyPI
+umap-learn,0.3.10,Uniform Manifold Approximation and Projection,BSD,PyPI
+unicodecsv,0.14.1,Drop-in replacement for csv module which supports unicode strings,BSD,Anaconda
+update-checker,0.16,A python module that will check for package updates.,Simplified BSD License,PyPI
+uritemplate,3.0.0,URI templates,"BSD 3-Clause License or Apache License, Version 2.0",PyPI
+urllib3,1.24.2,"HTTP library with thread-safe connection pooling, file post, and more.",MIT,Anaconda
+urwid,2.0.1,A full-featured console (xterm et al.) user interface library,LGPL,PyPI
+vecstack,0.4.0,Python package for stacking (machine learning technique),MIT,PyPI
+vega3,0.13.0,Deprecated: please use vega,BSD 3-clause,PyPI
+vida,0.3,Python binding for Vida data visualizations,UNKNOWN,PyPI
+visvis,1.11.2,An object oriented approach to visualization of 1D to 4D data,BSD 3-Clause,Anaconda
+vowpalwabbit,8.5.0,Vowpal Wabbit Python package,BSD 3-Clause License,PyPI
+vtk,8.1.2,"VTK is an open-source toolkit for 3D computer graphics, image processing, and visualization",BSD,PyPI
+wasabi,0.2.2,A lightweight console printing and formatting toolkit,MIT,PyPI
+wavio,0.0.4,A Python module for reading and writing WAV files using numpy arrays.,BSD,PyPI
+wcwidth,0.1.7,Measures number of Terminal column cells of wide-character codes.,MIT,Anaconda
+webencodings,0.5.1,Character encoding aliases for legacy web content,BSD 3-Clause,Anaconda
+websocket-client,0.56.0,WebSocket client for Python. hybi13 is supported.,BSD,PyPI
+wfdb,2.2.1,The WFDB Python Toolbox,MIT,PyPI
+wheel,0.33.4,A built-package format for Python.,MIT,Anaconda
+widgetsnbextension,3.5.1,Interactive Widgets for Jupyter,BSD 3-clause,Anaconda
+word2number,1.1,Convert number words eg. three hundred and forty two to numbers (342).,MIT,PyPI
+wordcloud,1.5.0,A little word cloud generator,MIT,PyPI
+wordsegment,1.3.1,English word segmentation.,Apache 2.0,PyPI
+wrapt,1.11.2,"Module for decorators, wrappers and monkey patching",BSD 2-Clause,Anaconda
+wurlitzer,1.0.3,Capture C-level stdout/stderr in Python,MIT,Anaconda
+xarray,0.12.3,N-D labeled arrays and datasets in Python.,Apache-2.0,Anaconda
+xgboost,0.90,XGBoost Python Package,Apache-2.0,PyPI
+xlrd,1.2.0,Library for developers to extract data from Microsoft Excel (tm) spreadsheet files,BSD 3-Clause and BSD with advertising,Anaconda
+xlwt,1.3.0,Writing data and formatting information to Excel files,BSD,Anaconda
+xvfbwrapper,0.2.9,run headless display inside X virtual framebuffer (Xvfb),MIT,PyPI
+xxhash,1.3.0,Python binding for xxHash,BSD,PyPI
+yellowbrick,0.9.1,A suite of visual analysis and diagnostic tools for machine learning.,Apache 2,PyPI
+zict,1.0.0,Composable Dictionary Classes,BSD 3-Clause,Anaconda
+zipp,0.5.2,A pathlib-compatible Zipfile object wrapper,MIT,Anaconda
