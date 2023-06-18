@@ -9,3 +9,5 @@ https://github.com/langchain-ai/auto-evaluator - with full explanation as well. 
 
 
 https://gptcache.readthedocs.io/en/latest/bootcamp/langchain/qa_generation.html gptcache version of QA generation, but autoevaluator is better as this provides responses with evaluation as well. Generation task with evaluation is better and we can depend on them.
+
+https://autoevaluator.langchain.com/playground best place to check for different outputs
